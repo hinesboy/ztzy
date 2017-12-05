@@ -1,0 +1,1095 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f730f769-55a4-4d1b-8ef9-a9f7fc3403dd" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/images/cropper-test.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/images/logo-min.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/images/logo.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/styles/fonts/ionicons.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/styles/fonts/ionicons.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/styles/fonts/ionicons.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/styles/login_bg.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/my-components/text-editor/tinymce/plugins/emoticons/img/smiley-cool.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/my-components/text-editor/tinymce/plugins/emoticons/img/smiley-cry.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/my-components/text-editor/tinymce/plugins/emoticons/img/smiley-embarassed.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/my-components/text-editor/tinymce/plugins/emoticons/img/smiley-foot-in-mouth.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/my-components/text-editor/tinymce/plugins/emoticons/img/smiley-frown.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/my-components/text-editor/tinymce/plugins/emoticons/img/smiley-innocent.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/my-components/text-editor/tinymce/plugins/emoticons/img/smiley-kiss.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/my-components/text-editor/tinymce/plugins/emoticons/img/smiley-laughing.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/my-components/text-editor/tinymce/plugins/emoticons/img/smiley-money-mouth.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/my-components/text-editor/tinymce/plugins/emoticons/img/smiley-sealed.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/my-components/text-editor/tinymce/plugins/emoticons/img/smiley-smile.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/my-components/text-editor/tinymce/plugins/emoticons/img/smiley-surprised.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/my-components/text-editor/tinymce/plugins/emoticons/img/smiley-tongue-out.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/my-components/text-editor/tinymce/plugins/emoticons/img/smiley-undecided.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/my-components/text-editor/tinymce/plugins/emoticons/img/smiley-wink.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/my-components/text-editor/tinymce/plugins/emoticons/img/smiley-yell.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/my-components/text-editor/tinymce/plugins/help/img/logo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/my-components/text-editor/tinymce/skins/lightgray/fonts/tinymce-mobile.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/my-components/text-editor/tinymce/skins/lightgray/fonts/tinymce-small.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/my-components/text-editor/tinymce/skins/lightgray/fonts/tinymce-small.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/my-components/text-editor/tinymce/skins/lightgray/fonts/tinymce-small.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/my-components/text-editor/tinymce/skins/lightgray/fonts/tinymce.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/my-components/text-editor/tinymce/skins/lightgray/fonts/tinymce.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/my-components/text-editor/tinymce/skins/lightgray/fonts/tinymce.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/my-components/text-editor/tinymce/skins/lightgray/img/anchor.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/my-components/text-editor/tinymce/skins/lightgray/img/loader.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/my-components/text-editor/tinymce/skins/lightgray/img/object.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/my-components/text-editor/tinymce/skins/lightgray/img/trans.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/td_icon.ico" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.babelrc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.editorconfig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.eslintignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.eslintrc.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/ztzy.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.travis.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/README_EN.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/config.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/webpack.base.config.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/webpack.dev.config.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/webpack.prod.config.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/package-lock.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app.vue" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/libs/table2excel.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/libs/util.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/locale/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/locale/locale.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/router/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/router/router.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/store/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/store/modules/app.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/store/modules/user.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/styles/common.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/styles/fonts/ionicons.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/styles/loading.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/template/index.ejs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/vendors/vendors.base.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/vendors/vendors.exten.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/Main.vue" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/bid-manage/bid-info/bid-info.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/bid-manage/bid-info/bid-info.vue" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/bid-manage/bid/bid.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/bid-manage/bid/bid.vue" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/bid-manage/bidder/bidder.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/bid-manage/bidder/bidder.vue" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/error-page/403.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/error-page/403.vue" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/error-page/404.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/error-page/404.vue" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/error-page/500.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/error-page/500.vue" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/error-page/error-page.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/error-page/error-page.vue" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/fund-manage/cash/cash.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/fund-manage/cash/cash.vue" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/fund-manage/charge/charge.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/fund-manage/charge/charge.vue" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/fund-manage/invest/invest.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/fund-manage/invest/invest.vue" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/fund-manage/overdate/overdate.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/fund-manage/overdate/overdate.vue" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/home/components/countUp.vue" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/home/components/dataSourcePie.vue" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/home/components/inforCard.vue" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/home/components/map.vue" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/home/components/mapDataTable.vue" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/home/components/serviceRequests.vue" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/home/components/styles/infor-card.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/home/components/styles/to-do-list-item.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/home/components/toDoListItem.vue" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/home/components/userFlow.vue" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/home/components/visiteVolume.vue" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/home/home.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/home/home.vue" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/home/map-data/china.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/home/map-data/get-city-value.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/home/map-data/get-geography-value.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/home/map-data/get-style-json.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/log/log.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/log/log.vue" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/login.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/login.vue" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/main-components/breadcrumb-nav.vue" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/main-components/shrinkable-menu/components/sidebarMenu.vue" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/main-components/shrinkable-menu/components/sidebarMenuShrink.vue" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/main-components/shrinkable-menu/shrinkable-menu.vue" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/main-components/shrinkable-menu/styles/menu.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/main-components/tags-page-opened.vue" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/main.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/man-manage/access/access.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/man-manage/access/access.vue" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/man-manage/company-user/company-user.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/man-manage/company-user/company-user.vue" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/man-manage/employee/employee.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/man-manage/employee/employee.vue" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/man-manage/user-info/user-info.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/man-manage/user-info/user-info.vue" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/my-components/area-linkage/area-linkage.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/my-components/area-linkage/area-linkage.vue" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/my-components/area-linkage/components/al-cascader.vue" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/my-components/area-linkage/components/al-selector.vue" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/my-components/area-linkage/util/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/my-components/count-to/CountTo.vue" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/my-components/count-to/count-to.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/my-components/count-to/count-to.vue" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/my-components/draggable-list/draggable-list.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/my-components/draggable-list/draggable-list.vue" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/my-components/file-upload/file-upload.vue" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/my-components/file-upload/upload.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/my-components/image-editor/cropper.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/my-components/image-editor/image-editor.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/my-components/image-editor/image-editor.vue" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/my-components/markdown-editor/markdown-editor.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/my-components/markdown-editor/markdown-editor.vue" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/my-components/markdown-editor/simplemde.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/my-components/text-editor/text-editor.vue" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/my-components/text-editor/tinymce/langs/en_GB.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/my-components/text-editor/tinymce/langs/zh_CN.GB2312.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/my-components/text-editor/tinymce/plugins/advlist/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/my-components/text-editor/tinymce/plugins/advlist/plugin.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/my-components/text-editor/tinymce/plugins/advlist/plugin.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/my-components/text-editor/tinymce/plugins/anchor/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/my-components/text-editor/tinymce/plugins/anchor/plugin.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/my-components/text-editor/tinymce/plugins/anchor/plugin.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/my-components/text-editor/tinymce/plugins/autolink/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/my-components/text-editor/tinymce/plugins/autolink/plugin.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/my-components/text-editor/tinymce/plugins/autolink/plugin.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/my-components/text-editor/tinymce/plugins/autoresize/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/my-components/text-editor/tinymce/plugins/autoresize/plugin.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/my-components/text-editor/tinymce/plugins/autoresize/plugin.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/my-components/text-editor/tinymce/plugins/autosave/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/my-components/text-editor/tinymce/plugins/autosave/plugin.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/my-components/text-editor/tinymce/plugins/autosave/plugin.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/my-components/text-editor/tinymce/plugins/bbcode/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/my-components/text-editor/tinymce/plugins/bbcode/plugin.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/my-components/text-editor/tinymce/plugins/bbcode/plugin.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/my-components/text-editor/tinymce/plugins/charmap/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/my-components/text-editor/tinymce/plugins/charmap/plugin.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/my-components/text-editor/tinymce/plugins/charmap/plugin.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/my-components/text-editor/tinymce/plugins/code/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/my-components/text-editor/tinymce/plugins/code/plugin.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/my-components/text-editor/tinymce/plugins/code/plugin.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/my-components/text-editor/tinymce/plugins/codesample/css/prism.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/my-components/text-editor/tinymce/plugins/codesample/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/my-components/text-editor/tinymce/plugins/codesample/plugin.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/my-components/text-editor/tinymce/plugins/codesample/plugin.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/my-components/text-editor/tinymce/plugins/colorpicker/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/my-components/text-editor/tinymce/plugins/colorpicker/plugin.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/my-components/text-editor/tinymce/plugins/colorpicker/plugin.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/my-components/text-editor/tinymce/plugins/contextmenu/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/my-components/text-editor/tinymce/plugins/contextmenu/plugin.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/my-components/text-editor/tinymce/plugins/contextmenu/plugin.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/my-components/text-editor/tinymce/plugins/directionality/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/my-components/text-editor/tinymce/plugins/directionality/plugin.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/my-components/text-editor/tinymce/plugins/directionality/plugin.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/my-components/text-editor/tinymce/plugins/emoticons/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/my-components/text-editor/tinymce/plugins/emoticons/plugin.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/my-components/text-editor/tinymce/plugins/emoticons/plugin.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/my-components/text-editor/tinymce/plugins/fullpage/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/my-components/text-editor/tinymce/plugins/fullpage/plugin.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/my-components/text-editor/tinymce/plugins/fullpage/plugin.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/my-components/text-editor/tinymce/plugins/fullscreen/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/my-components/text-editor/tinymce/plugins/fullscreen/plugin.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/my-components/text-editor/tinymce/plugins/fullscreen/plugin.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/my-components/text-editor/tinymce/plugins/help/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/my-components/text-editor/tinymce/plugins/help/plugin.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/my-components/text-editor/tinymce/plugins/help/plugin.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/my-components/text-editor/tinymce/plugins/hr/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/my-components/text-editor/tinymce/plugins/hr/plugin.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/my-components/text-editor/tinymce/plugins/hr/plugin.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/my-components/text-editor/tinymce/plugins/image/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/my-components/text-editor/tinymce/plugins/image/plugin.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/my-components/text-editor/tinymce/plugins/image/plugin.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/my-components/text-editor/tinymce/plugins/imagetools/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/my-components/text-editor/tinymce/plugins/imagetools/plugin.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/my-components/text-editor/tinymce/plugins/imagetools/plugin.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/my-components/text-editor/tinymce/plugins/importcss/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/my-components/text-editor/tinymce/plugins/importcss/plugin.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/my-components/text-editor/tinymce/plugins/importcss/plugin.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/my-components/text-editor/tinymce/plugins/insertdatetime/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/my-components/text-editor/tinymce/plugins/insertdatetime/plugin.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/my-components/text-editor/tinymce/plugins/insertdatetime/plugin.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/my-components/text-editor/tinymce/plugins/legacyoutput/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/my-components/text-editor/tinymce/plugins/legacyoutput/plugin.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/my-components/text-editor/tinymce/plugins/legacyoutput/plugin.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/my-components/text-editor/tinymce/plugins/link/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/my-components/text-editor/tinymce/plugins/link/plugin.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/my-components/text-editor/tinymce/plugins/link/plugin.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/my-components/text-editor/tinymce/plugins/lists/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/my-components/text-editor/tinymce/plugins/lists/plugin.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/my-components/text-editor/tinymce/plugins/lists/plugin.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/my-components/text-editor/tinymce/plugins/media/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/my-components/text-editor/tinymce/plugins/media/plugin.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/my-components/text-editor/tinymce/plugins/media/plugin.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/my-components/text-editor/tinymce/plugins/nonbreaking/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/my-components/text-editor/tinymce/plugins/nonbreaking/plugin.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/my-components/text-editor/tinymce/plugins/nonbreaking/plugin.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/my-components/text-editor/tinymce/plugins/noneditable/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/my-components/text-editor/tinymce/plugins/noneditable/plugin.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/my-components/text-editor/tinymce/plugins/noneditable/plugin.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/my-components/text-editor/tinymce/plugins/pagebreak/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/my-components/text-editor/tinymce/plugins/pagebreak/plugin.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/my-components/text-editor/tinymce/plugins/pagebreak/plugin.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/my-components/text-editor/tinymce/plugins/paste/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/my-components/text-editor/tinymce/plugins/paste/plugin.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/my-components/text-editor/tinymce/plugins/paste/plugin.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/my-components/text-editor/tinymce/plugins/preview/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/my-components/text-editor/tinymce/plugins/preview/plugin.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/my-components/text-editor/tinymce/plugins/preview/plugin.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/my-components/text-editor/tinymce/plugins/print/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/my-components/text-editor/tinymce/plugins/print/plugin.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/my-components/text-editor/tinymce/plugins/print/plugin.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/my-components/text-editor/tinymce/plugins/save/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/my-components/text-editor/tinymce/plugins/save/plugin.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/my-components/text-editor/tinymce/plugins/save/plugin.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/my-components/text-editor/tinymce/plugins/searchreplace/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/my-components/text-editor/tinymce/plugins/searchreplace/plugin.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/my-components/text-editor/tinymce/plugins/searchreplace/plugin.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/my-components/text-editor/tinymce/plugins/spellchecker/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/my-components/text-editor/tinymce/plugins/spellchecker/plugin.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/my-components/text-editor/tinymce/plugins/spellchecker/plugin.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/my-components/text-editor/tinymce/plugins/tabfocus/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/my-components/text-editor/tinymce/plugins/tabfocus/plugin.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/my-components/text-editor/tinymce/plugins/tabfocus/plugin.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/my-components/text-editor/tinymce/plugins/table/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/my-components/text-editor/tinymce/plugins/table/plugin.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/my-components/text-editor/tinymce/plugins/table/plugin.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/my-components/text-editor/tinymce/plugins/template/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/my-components/text-editor/tinymce/plugins/template/plugin.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/my-components/text-editor/tinymce/plugins/template/plugin.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/my-components/text-editor/tinymce/plugins/textcolor/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/my-components/text-editor/tinymce/plugins/textcolor/plugin.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/my-components/text-editor/tinymce/plugins/textcolor/plugin.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/my-components/text-editor/tinymce/plugins/textpattern/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/my-components/text-editor/tinymce/plugins/textpattern/plugin.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/my-components/text-editor/tinymce/plugins/textpattern/plugin.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/my-components/text-editor/tinymce/plugins/toc/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/my-components/text-editor/tinymce/plugins/toc/plugin.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/my-components/text-editor/tinymce/plugins/toc/plugin.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/my-components/text-editor/tinymce/plugins/visualblocks/css/visualblocks.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/my-components/text-editor/tinymce/plugins/visualblocks/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/my-components/text-editor/tinymce/plugins/visualblocks/plugin.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/my-components/text-editor/tinymce/plugins/visualblocks/plugin.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/my-components/text-editor/tinymce/plugins/visualchars/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/my-components/text-editor/tinymce/plugins/visualchars/plugin.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/my-components/text-editor/tinymce/plugins/visualchars/plugin.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/my-components/text-editor/tinymce/plugins/wordcount/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/my-components/text-editor/tinymce/plugins/wordcount/plugin.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/my-components/text-editor/tinymce/plugins/wordcount/plugin.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/my-components/text-editor/tinymce/skins/lightgray/content.inline.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/my-components/text-editor/tinymce/skins/lightgray/content.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/my-components/text-editor/tinymce/skins/lightgray/content.mobile.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/my-components/text-editor/tinymce/skins/lightgray/fonts/tinymce-small.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/my-components/text-editor/tinymce/skins/lightgray/fonts/tinymce.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/my-components/text-editor/tinymce/skins/lightgray/skin.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/my-components/text-editor/tinymce/skins/lightgray/skin.mobile.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/my-components/text-editor/tinymce/themes/inlite/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/my-components/text-editor/tinymce/themes/inlite/theme.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/my-components/text-editor/tinymce/themes/inlite/theme.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/my-components/text-editor/tinymce/themes/modern/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/my-components/text-editor/tinymce/themes/modern/theme.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/my-components/text-editor/tinymce/themes/modern/theme.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/own-space/own-space.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/own-space/own-space.vue" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/portal-manage/ads/ads.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/portal-manage/ads/ads.vue" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/portal-manage/issues/issues.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/portal-manage/issues/issues.vue" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/portal-manage/news/news.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/portal-manage/news/news.vue" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yarn.lock" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="router.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/router/router.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="305">
+              <caret line="63" column="29" lean-forward="false" selection-start-line="63" selection-start-column="29" selection-end-line="63" selection-end-column="29" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="home.vue" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/views/home/home.vue">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="381">
+              <caret line="111" column="52" lean-forward="false" selection-start-line="111" selection-start-column="52" selection-end-line="111" selection-end-column="52" />
+              <folding>
+                <element signature="e#6859#6911#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="home.less" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/views/home/home.less">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="25" column="33" lean-forward="false" selection-start-line="25" selection-start-column="33" selection-end-line="25" selection-end-column="33" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="map.vue" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/views/home/components/map.vue">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="19">
+              <caret line="1" column="49" lean-forward="false" selection-start-line="1" selection-start-column="49" selection-end-line="1" selection-end-column="49" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>handleClickUserDropdown</find>
+      <find>theme</find>
+      <find>locking</find>
+      <find>menuTheme</find>
+      <find>preview</find>
+      <find>theme-switch</find>
+      <find>handlePreview</find>
+      <find>shrinkable-menu</find>
+      <find>breadcrumbNav</find>
+      <find>locale</find>
+      <find>lang</find>
+      <find>sidebar-menu-con</find>
+      <find>layout-text</find>
+      <find>switch-theme</find>
+      <find>change-skin</find>
+      <find>header-avator-con</find>
+      <find>single-page-con</find>
+      <find>switch-theme-con</find>
+      <find>main-header-con</find>
+      <find>international</find>
+      <find>access</find>
+      <find>.to-do-list-con</find>
+      <find>145</find>
+      <find>上周每日服务调用量(万)</find>
+      <find>ivu-table-wrapper</find>
+      <find>map-incon</find>
+      <find>地理分布</find>
+      <find>own-space</find>
+      <find>home_page_map</find>
+      <find>map-con</find>
+    </findStrings>
+    <dirStrings>
+      <dir>D:\webstrom\workplace\ztzy\src\views\my-components</dir>
+      <dir>D:\webstrom\workplace\ztzy\src\views</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/views/login.vue" />
+        <option value="$PROJECT_DIR$/src/views/form/article-publish/article-publish.vue" />
+        <option value="$PROJECT_DIR$/build/webpack.dev.config.js" />
+        <option value="$PROJECT_DIR$/build/webpack.prod.config.js" />
+        <option value="$PROJECT_DIR$/src/locale/index.js" />
+        <option value="$PROJECT_DIR$/src/locale/locale.js" />
+        <option value="$PROJECT_DIR$/src/main.js" />
+        <option value="$PROJECT_DIR$/src/views/Main.vue" />
+        <option value="$PROJECT_DIR$/src/views/main.less" />
+        <option value="$PROJECT_DIR$/src/views/man-manage/employee/access.less" />
+        <option value="$PROJECT_DIR$/src/views/man-manage/access/access.vue" />
+        <option value="$PROJECT_DIR$/src/views/man-manage/employee/access.vue" />
+        <option value="$PROJECT_DIR$/src/views/man-manage/employee/employee.vue" />
+        <option value="$PROJECT_DIR$/src/views/man-manage/company-user/employee.vue" />
+        <option value="$PROJECT_DIR$/src/views/man-manage/company-user/employee.less" />
+        <option value="$PROJECT_DIR$/src/views/man-manage/user-info/employee.less" />
+        <option value="$PROJECT_DIR$/src/views/man-manage/user-info/employee.vue" />
+        <option value="$PROJECT_DIR$/src/views/bid-manage/bid/user-info.less" />
+        <option value="$PROJECT_DIR$/src/views/bid-manage/bid/user-info.vue" />
+        <option value="$PROJECT_DIR$/src/views/bid-manage/bid-info/bid.vue" />
+        <option value="$PROJECT_DIR$/src/views/bid-manage/bidder/bid.less" />
+        <option value="$PROJECT_DIR$/src/views/bid-manage/bidder/bid.vue" />
+        <option value="$PROJECT_DIR$/src/views/fund-manage/cash/bid.less" />
+        <option value="$PROJECT_DIR$/src/views/fund-manage/cash/bid.vue" />
+        <option value="$PROJECT_DIR$/src/views/fund-manage/charge/cash.less" />
+        <option value="$PROJECT_DIR$/src/views/fund-manage/charge/cash.vue" />
+        <option value="$PROJECT_DIR$/src/views/fund-manage/invest/cash.less" />
+        <option value="$PROJECT_DIR$/src/views/fund-manage/invest/cash.vue" />
+        <option value="$PROJECT_DIR$/src/views/fund-manage/overdate/cash.less" />
+        <option value="$PROJECT_DIR$/src/views/fund-manage/overdate/cash.vue" />
+        <option value="$PROJECT_DIR$/src/views/portal-manage/ads/cash.less" />
+        <option value="$PROJECT_DIR$/src/views/portal-manage/ads/cash.vue" />
+        <option value="$PROJECT_DIR$/src/views/portal-manage/issues/cash.less" />
+        <option value="$PROJECT_DIR$/src/views/portal-manage/issues/cash.vue" />
+        <option value="$PROJECT_DIR$/src/views/portal-manage/news/cash.less" />
+        <option value="$PROJECT_DIR$/src/views/portal-manage/news/cash.vue" />
+        <option value="$PROJECT_DIR$/src/views/portal-manage/ads/ads.less" />
+        <option value="$PROJECT_DIR$/src/views/portal-manage/news/news.less" />
+        <option value="$PROJECT_DIR$/src/views/portal-manage/news/news.vue" />
+        <option value="$PROJECT_DIR$/src/views/portal-manage/ads/ads.vue" />
+        <option value="$PROJECT_DIR$/src/views/log/ads.less" />
+        <option value="$PROJECT_DIR$/src/views/log/ads.vue" />
+        <option value="$PROJECT_DIR$/src/views/log/log.vue" />
+        <option value="$PROJECT_DIR$/src/router/router.js" />
+        <option value="$PROJECT_DIR$/src/views/home/home.vue" />
+        <option value="$PROJECT_DIR$/src/views/home/components/map.vue" />
+        <option value="$PROJECT_DIR$/src/views/home/home.less" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER">
+    <package-json value="$PROJECT_DIR$/package.json" />
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>false</service-enabled>
+    <exe-path />
+    <annotation-enable>false</annotation-enable>
+    <other-services-enabled>false</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/node_modules" />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="913" />
+    <option name="y" value="270" />
+    <option name="width" value="1404" />
+    <option name="height" value="1000" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="ztzy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ztzy" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ztzy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ztzy" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ztzy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ztzy" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="router" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ztzy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ztzy" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="views" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ztzy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ztzy" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="views" type="462c0819:PsiDirectoryNode" />
+              <item name="home" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ztzy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ztzy" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="views" type="462c0819:PsiDirectoryNode" />
+              <item name="log" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_interpreter_path" value="C:/Program Files/nodejs/node" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../iview-admin" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="D:\webstrom\workplace\ztzy\node_modules\eslint" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\webstrom\workplace\ztzy\src\views\log" />
+      <recent name="D:\webstrom\workplace\ztzy\src\views\portal-manage\news" />
+      <recent name="D:\webstrom\workplace\ztzy\src\views\portal-manage\issues" />
+      <recent name="D:\webstrom\workplace\ztzy\src\views\portal-manage\ads" />
+      <recent name="D:\webstrom\workplace\ztzy\src\views\fund-manage\overdate" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\webstrom\workplace\ztzy\src\views\man-manage" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="build" type="js.build_tools.npm" factoryName="npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="build" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+    </configuration>
+    <configuration name="dev" type="js.build_tools.npm" factoryName="npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="dev" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+    </configuration>
+    <list size="2">
+      <item index="0" class="java.lang.String" itemvalue="npm.dev" />
+      <item index="1" class="java.lang.String" itemvalue="npm.build" />
+    </list>
+    <recent_temporary>
+      <list size="2">
+        <item index="0" class="java.lang.String" itemvalue="npm.build" />
+        <item index="1" class="java.lang.String" itemvalue="npm.dev" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f730f769-55a4-4d1b-8ef9-a9f7fc3403dd" name="Default" comment="" />
+      <created>1512380534229</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1512380534229</updated>
+      <workItem from="1512380535630" duration="1955000" />
+      <workItem from="1512459150913" duration="9369000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="11324000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24973656" sideWeight="0.4878444" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32934782" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24973656" sideWeight="0.5113636" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.31847826" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3297062" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/views/form/article-publish/article-publish.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="343">
+          <caret line="297" column="42" lean-forward="true" selection-start-line="297" selection-start-column="42" selection-end-line="297" selection-end-column="42" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/views/main-components/shrinkable-menu/components/sidebarMenu.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/views/main-components/shrinkable-menu/components/sidebarMenuShrink.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/iview/src/locale/lang/zh-CN.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1197">
+          <caret line="0" column="28" lean-forward="false" selection-start-line="0" selection-start-column="28" selection-end-line="0" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/locale/locale.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="1" column="4" lean-forward="false" selection-start-line="1" selection-start-column="4" selection-end-line="1" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/vue-i18n/src/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="29" column="18" lean-forward="false" selection-start-line="29" selection-start-column="16" selection-end-line="29" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/locale/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="14" column="29" lean-forward="true" selection-start-line="14" selection-start-column="29" selection-end-line="14" selection-end-column="29" />
+          <folding>
+            <element signature="e#0#22#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="13" column="0" lean-forward="true" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#22#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/views/main-components/tags-page-opened.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="37" column="0" lean-forward="false" selection-start-line="37" selection-start-column="0" selection-end-line="39" selection-end-column="17" />
+          <folding>
+            <element signature="e#1523#1545#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/views/Main.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="172">
+          <caret line="19" column="35" lean-forward="false" selection-start-line="19" selection-start-column="20" selection-end-line="19" selection-end-column="35" />
+          <folding>
+            <element signature="e#2910#2993#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/views/main.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="23" column="11" lean-forward="false" selection-start-line="23" selection-start-column="11" selection-end-line="23" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/views/international/international.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-734">
+          <caret line="71" column="30" lean-forward="false" selection-start-line="71" selection-start-column="11" selection-end-line="71" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="17" column="0" lean-forward="true" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/router/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="32" lean-forward="true" selection-start-line="4" selection-start-column="32" selection-end-line="4" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/views/advanced-router/mutative-router.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/views/advanced-router/component/order-info.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/views/advanced-router/argument-page.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/views/man-manage/employee/employee.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="1" column="4" lean-forward="false" selection-start-line="1" selection-start-column="4" selection-end-line="1" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/views/man-manage/access/access.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="59">
+          <caret line="45" column="14" lean-forward="false" selection-start-line="45" selection-start-column="7" selection-end-line="45" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/views/man-manage/employee/employee.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" column="8" lean-forward="false" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/views/man-manage/company-user/company-user.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="25" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/views/man-manage/company-user/company-user.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="1" lean-forward="false" selection-start-line="2" selection-start-column="1" selection-end-line="2" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/views/man-manage/user-info/user-info.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="10" lean-forward="false" selection-start-line="0" selection-start-column="10" selection-end-line="0" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/views/man-manage/user-info/user-info.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="21" column="5" lean-forward="true" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/views/bid-manage/bidder/bidder.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="19" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/views/bid-manage/bid-info/bid-info.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="10" lean-forward="false" selection-start-line="8" selection-start-column="10" selection-end-line="8" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/views/bid-manage/bidder/bidder.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="7" lean-forward="false" selection-start-line="0" selection-start-column="1" selection-end-line="0" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/views/bid-manage/bid-info/bid-info.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/views/bid-manage/bid/bid.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="4" lean-forward="false" selection-start-line="0" selection-start-column="1" selection-end-line="0" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/views/bid-manage/bid/bid.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="16" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/views/fund-manage/cash/cash.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="5" lean-forward="false" selection-start-line="0" selection-start-column="5" selection-end-line="0" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/views/fund-manage/cash/cash.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="17" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/views/fund-manage/charge/charge.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="7" lean-forward="false" selection-start-line="0" selection-start-column="7" selection-end-line="0" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/views/fund-manage/charge/charge.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="13" column="17" lean-forward="false" selection-start-line="13" selection-start-column="11" selection-end-line="13" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/views/fund-manage/invest/invest.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="7" lean-forward="false" selection-start-line="0" selection-start-column="7" selection-end-line="0" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/views/fund-manage/invest/invest.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="22" lean-forward="false" selection-start-line="6" selection-start-column="16" selection-end-line="6" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/views/fund-manage/overdate/overdate.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="24" lean-forward="false" selection-start-line="6" selection-start-column="16" selection-end-line="6" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/views/fund-manage/overdate/overdate.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="9" lean-forward="false" selection-start-line="0" selection-start-column="9" selection-end-line="0" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/views/portal-manage/issues/issues.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="22" lean-forward="false" selection-start-line="6" selection-start-column="16" selection-end-line="6" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/views/portal-manage/news/news.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="5" lean-forward="false" selection-start-line="0" selection-start-column="1" selection-end-line="0" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/views/portal-manage/news/news.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" column="16" lean-forward="true" selection-start-line="12" selection-start-column="16" selection-end-line="12" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/views/portal-manage/ads/ads.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/views/portal-manage/issues/issues.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="7" lean-forward="false" selection-start-line="0" selection-start-column="7" selection-end-line="0" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/views/portal-manage/ads/ads.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="1" lean-forward="true" selection-start-line="2" selection-start-column="1" selection-end-line="2" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/views/log/log.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="1" column="19" lean-forward="false" selection-start-line="1" selection-start-column="19" selection-end-line="1" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/views/log/log.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="4" lean-forward="false" selection-start-line="0" selection-start-column="4" selection-end-line="0" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/router/router.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="305">
+          <caret line="63" column="29" lean-forward="false" selection-start-line="63" selection-start-column="29" selection-end-line="63" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/views/home/components/map.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="1" column="49" lean-forward="false" selection-start-line="1" selection-start-column="49" selection-end-line="1" selection-end-column="49" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/views/home/home.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="381">
+          <caret line="111" column="52" lean-forward="false" selection-start-line="111" selection-start-column="52" selection-end-line="111" selection-end-column="52" />
+          <folding>
+            <element signature="e#6859#6911#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/views/home/home.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="25" column="33" lean-forward="false" selection-start-line="25" selection-start-column="33" selection-end-line="25" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
