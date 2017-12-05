@@ -2,313 +2,44 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f730f769-55a4-4d1b-8ef9-a9f7fc3403dd" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/images/cropper-test.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/images/logo-min.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/images/logo.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/styles/fonts/ionicons.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/styles/fonts/ionicons.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/styles/fonts/ionicons.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/styles/login_bg.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/my-components/text-editor/tinymce/plugins/emoticons/img/smiley-cool.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/my-components/text-editor/tinymce/plugins/emoticons/img/smiley-cry.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/my-components/text-editor/tinymce/plugins/emoticons/img/smiley-embarassed.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/my-components/text-editor/tinymce/plugins/emoticons/img/smiley-foot-in-mouth.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/my-components/text-editor/tinymce/plugins/emoticons/img/smiley-frown.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/my-components/text-editor/tinymce/plugins/emoticons/img/smiley-innocent.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/my-components/text-editor/tinymce/plugins/emoticons/img/smiley-kiss.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/my-components/text-editor/tinymce/plugins/emoticons/img/smiley-laughing.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/my-components/text-editor/tinymce/plugins/emoticons/img/smiley-money-mouth.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/my-components/text-editor/tinymce/plugins/emoticons/img/smiley-sealed.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/my-components/text-editor/tinymce/plugins/emoticons/img/smiley-smile.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/my-components/text-editor/tinymce/plugins/emoticons/img/smiley-surprised.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/my-components/text-editor/tinymce/plugins/emoticons/img/smiley-tongue-out.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/my-components/text-editor/tinymce/plugins/emoticons/img/smiley-undecided.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/my-components/text-editor/tinymce/plugins/emoticons/img/smiley-wink.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/my-components/text-editor/tinymce/plugins/emoticons/img/smiley-yell.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/my-components/text-editor/tinymce/plugins/help/img/logo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/my-components/text-editor/tinymce/skins/lightgray/fonts/tinymce-mobile.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/my-components/text-editor/tinymce/skins/lightgray/fonts/tinymce-small.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/my-components/text-editor/tinymce/skins/lightgray/fonts/tinymce-small.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/my-components/text-editor/tinymce/skins/lightgray/fonts/tinymce-small.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/my-components/text-editor/tinymce/skins/lightgray/fonts/tinymce.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/my-components/text-editor/tinymce/skins/lightgray/fonts/tinymce.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/my-components/text-editor/tinymce/skins/lightgray/fonts/tinymce.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/my-components/text-editor/tinymce/skins/lightgray/img/anchor.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/my-components/text-editor/tinymce/skins/lightgray/img/loader.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/my-components/text-editor/tinymce/skins/lightgray/img/object.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/my-components/text-editor/tinymce/skins/lightgray/img/trans.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/td_icon.ico" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.babelrc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.editorconfig" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.eslintignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.eslintrc.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/ztzy.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.travis.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/README_EN.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/config.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/webpack.base.config.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/webpack.dev.config.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/webpack.prod.config.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/package-lock.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app.vue" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/libs/table2excel.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/libs/util.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/locale/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/locale/locale.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/router/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/router/router.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/store/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/store/modules/app.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/store/modules/user.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/styles/common.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/styles/fonts/ionicons.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/styles/loading.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/template/index.ejs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/vendors/vendors.base.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/vendors/vendors.exten.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/Main.vue" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/bid-manage/bid-info/bid-info.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/bid-manage/bid-info/bid-info.vue" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/bid-manage/bid/bid.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/bid-manage/bid/bid.vue" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/bid-manage/bidder/bidder.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/bid-manage/bidder/bidder.vue" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/error-page/403.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/error-page/403.vue" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/error-page/404.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/error-page/404.vue" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/error-page/500.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/error-page/500.vue" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/error-page/error-page.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/error-page/error-page.vue" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/fund-manage/cash/cash.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/fund-manage/cash/cash.vue" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/fund-manage/charge/charge.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/fund-manage/charge/charge.vue" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/fund-manage/invest/invest.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/fund-manage/invest/invest.vue" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/fund-manage/overdate/overdate.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/fund-manage/overdate/overdate.vue" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/home/components/countUp.vue" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/home/components/dataSourcePie.vue" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/home/components/inforCard.vue" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/home/components/map.vue" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/home/components/mapDataTable.vue" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/home/components/serviceRequests.vue" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/home/components/styles/infor-card.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/home/components/styles/to-do-list-item.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/home/components/toDoListItem.vue" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/home/components/userFlow.vue" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/home/components/visiteVolume.vue" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/home/home.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/home/home.vue" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/home/map-data/china.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/home/map-data/get-city-value.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/home/map-data/get-geography-value.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/home/map-data/get-style-json.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/log/log.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/log/log.vue" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/login.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/login.vue" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/main-components/breadcrumb-nav.vue" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/main-components/shrinkable-menu/components/sidebarMenu.vue" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/main-components/shrinkable-menu/components/sidebarMenuShrink.vue" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/main-components/shrinkable-menu/shrinkable-menu.vue" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/main-components/shrinkable-menu/styles/menu.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/main-components/tags-page-opened.vue" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/main.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/man-manage/access/access.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/man-manage/access/access.vue" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/man-manage/company-user/company-user.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/man-manage/company-user/company-user.vue" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/man-manage/employee/employee.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/man-manage/employee/employee.vue" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/man-manage/user-info/user-info.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/man-manage/user-info/user-info.vue" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/my-components/area-linkage/area-linkage.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/my-components/area-linkage/area-linkage.vue" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/my-components/area-linkage/components/al-cascader.vue" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/my-components/area-linkage/components/al-selector.vue" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/my-components/area-linkage/util/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/my-components/count-to/CountTo.vue" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/my-components/count-to/count-to.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/my-components/count-to/count-to.vue" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/my-components/draggable-list/draggable-list.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/my-components/draggable-list/draggable-list.vue" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/my-components/file-upload/file-upload.vue" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/my-components/file-upload/upload.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/my-components/image-editor/cropper.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/my-components/image-editor/image-editor.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/my-components/image-editor/image-editor.vue" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/my-components/markdown-editor/markdown-editor.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/my-components/markdown-editor/markdown-editor.vue" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/my-components/markdown-editor/simplemde.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/my-components/text-editor/text-editor.vue" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/my-components/text-editor/tinymce/langs/en_GB.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/my-components/text-editor/tinymce/langs/zh_CN.GB2312.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/my-components/text-editor/tinymce/plugins/advlist/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/my-components/text-editor/tinymce/plugins/advlist/plugin.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/my-components/text-editor/tinymce/plugins/advlist/plugin.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/my-components/text-editor/tinymce/plugins/anchor/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/my-components/text-editor/tinymce/plugins/anchor/plugin.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/my-components/text-editor/tinymce/plugins/anchor/plugin.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/my-components/text-editor/tinymce/plugins/autolink/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/my-components/text-editor/tinymce/plugins/autolink/plugin.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/my-components/text-editor/tinymce/plugins/autolink/plugin.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/my-components/text-editor/tinymce/plugins/autoresize/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/my-components/text-editor/tinymce/plugins/autoresize/plugin.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/my-components/text-editor/tinymce/plugins/autoresize/plugin.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/my-components/text-editor/tinymce/plugins/autosave/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/my-components/text-editor/tinymce/plugins/autosave/plugin.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/my-components/text-editor/tinymce/plugins/autosave/plugin.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/my-components/text-editor/tinymce/plugins/bbcode/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/my-components/text-editor/tinymce/plugins/bbcode/plugin.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/my-components/text-editor/tinymce/plugins/bbcode/plugin.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/my-components/text-editor/tinymce/plugins/charmap/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/my-components/text-editor/tinymce/plugins/charmap/plugin.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/my-components/text-editor/tinymce/plugins/charmap/plugin.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/my-components/text-editor/tinymce/plugins/code/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/my-components/text-editor/tinymce/plugins/code/plugin.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/my-components/text-editor/tinymce/plugins/code/plugin.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/my-components/text-editor/tinymce/plugins/codesample/css/prism.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/my-components/text-editor/tinymce/plugins/codesample/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/my-components/text-editor/tinymce/plugins/codesample/plugin.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/my-components/text-editor/tinymce/plugins/codesample/plugin.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/my-components/text-editor/tinymce/plugins/colorpicker/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/my-components/text-editor/tinymce/plugins/colorpicker/plugin.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/my-components/text-editor/tinymce/plugins/colorpicker/plugin.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/my-components/text-editor/tinymce/plugins/contextmenu/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/my-components/text-editor/tinymce/plugins/contextmenu/plugin.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/my-components/text-editor/tinymce/plugins/contextmenu/plugin.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/my-components/text-editor/tinymce/plugins/directionality/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/my-components/text-editor/tinymce/plugins/directionality/plugin.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/my-components/text-editor/tinymce/plugins/directionality/plugin.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/my-components/text-editor/tinymce/plugins/emoticons/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/my-components/text-editor/tinymce/plugins/emoticons/plugin.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/my-components/text-editor/tinymce/plugins/emoticons/plugin.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/my-components/text-editor/tinymce/plugins/fullpage/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/my-components/text-editor/tinymce/plugins/fullpage/plugin.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/my-components/text-editor/tinymce/plugins/fullpage/plugin.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/my-components/text-editor/tinymce/plugins/fullscreen/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/my-components/text-editor/tinymce/plugins/fullscreen/plugin.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/my-components/text-editor/tinymce/plugins/fullscreen/plugin.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/my-components/text-editor/tinymce/plugins/help/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/my-components/text-editor/tinymce/plugins/help/plugin.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/my-components/text-editor/tinymce/plugins/help/plugin.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/my-components/text-editor/tinymce/plugins/hr/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/my-components/text-editor/tinymce/plugins/hr/plugin.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/my-components/text-editor/tinymce/plugins/hr/plugin.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/my-components/text-editor/tinymce/plugins/image/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/my-components/text-editor/tinymce/plugins/image/plugin.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/my-components/text-editor/tinymce/plugins/image/plugin.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/my-components/text-editor/tinymce/plugins/imagetools/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/my-components/text-editor/tinymce/plugins/imagetools/plugin.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/my-components/text-editor/tinymce/plugins/imagetools/plugin.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/my-components/text-editor/tinymce/plugins/importcss/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/my-components/text-editor/tinymce/plugins/importcss/plugin.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/my-components/text-editor/tinymce/plugins/importcss/plugin.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/my-components/text-editor/tinymce/plugins/insertdatetime/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/my-components/text-editor/tinymce/plugins/insertdatetime/plugin.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/my-components/text-editor/tinymce/plugins/insertdatetime/plugin.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/my-components/text-editor/tinymce/plugins/legacyoutput/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/my-components/text-editor/tinymce/plugins/legacyoutput/plugin.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/my-components/text-editor/tinymce/plugins/legacyoutput/plugin.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/my-components/text-editor/tinymce/plugins/link/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/my-components/text-editor/tinymce/plugins/link/plugin.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/my-components/text-editor/tinymce/plugins/link/plugin.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/my-components/text-editor/tinymce/plugins/lists/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/my-components/text-editor/tinymce/plugins/lists/plugin.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/my-components/text-editor/tinymce/plugins/lists/plugin.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/my-components/text-editor/tinymce/plugins/media/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/my-components/text-editor/tinymce/plugins/media/plugin.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/my-components/text-editor/tinymce/plugins/media/plugin.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/my-components/text-editor/tinymce/plugins/nonbreaking/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/my-components/text-editor/tinymce/plugins/nonbreaking/plugin.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/my-components/text-editor/tinymce/plugins/nonbreaking/plugin.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/my-components/text-editor/tinymce/plugins/noneditable/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/my-components/text-editor/tinymce/plugins/noneditable/plugin.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/my-components/text-editor/tinymce/plugins/noneditable/plugin.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/my-components/text-editor/tinymce/plugins/pagebreak/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/my-components/text-editor/tinymce/plugins/pagebreak/plugin.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/my-components/text-editor/tinymce/plugins/pagebreak/plugin.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/my-components/text-editor/tinymce/plugins/paste/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/my-components/text-editor/tinymce/plugins/paste/plugin.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/my-components/text-editor/tinymce/plugins/paste/plugin.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/my-components/text-editor/tinymce/plugins/preview/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/my-components/text-editor/tinymce/plugins/preview/plugin.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/my-components/text-editor/tinymce/plugins/preview/plugin.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/my-components/text-editor/tinymce/plugins/print/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/my-components/text-editor/tinymce/plugins/print/plugin.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/my-components/text-editor/tinymce/plugins/print/plugin.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/my-components/text-editor/tinymce/plugins/save/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/my-components/text-editor/tinymce/plugins/save/plugin.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/my-components/text-editor/tinymce/plugins/save/plugin.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/my-components/text-editor/tinymce/plugins/searchreplace/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/my-components/text-editor/tinymce/plugins/searchreplace/plugin.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/my-components/text-editor/tinymce/plugins/searchreplace/plugin.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/my-components/text-editor/tinymce/plugins/spellchecker/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/my-components/text-editor/tinymce/plugins/spellchecker/plugin.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/my-components/text-editor/tinymce/plugins/spellchecker/plugin.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/my-components/text-editor/tinymce/plugins/tabfocus/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/my-components/text-editor/tinymce/plugins/tabfocus/plugin.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/my-components/text-editor/tinymce/plugins/tabfocus/plugin.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/my-components/text-editor/tinymce/plugins/table/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/my-components/text-editor/tinymce/plugins/table/plugin.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/my-components/text-editor/tinymce/plugins/table/plugin.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/my-components/text-editor/tinymce/plugins/template/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/my-components/text-editor/tinymce/plugins/template/plugin.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/my-components/text-editor/tinymce/plugins/template/plugin.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/my-components/text-editor/tinymce/plugins/textcolor/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/my-components/text-editor/tinymce/plugins/textcolor/plugin.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/my-components/text-editor/tinymce/plugins/textcolor/plugin.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/my-components/text-editor/tinymce/plugins/textpattern/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/my-components/text-editor/tinymce/plugins/textpattern/plugin.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/my-components/text-editor/tinymce/plugins/textpattern/plugin.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/my-components/text-editor/tinymce/plugins/toc/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/my-components/text-editor/tinymce/plugins/toc/plugin.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/my-components/text-editor/tinymce/plugins/toc/plugin.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/my-components/text-editor/tinymce/plugins/visualblocks/css/visualblocks.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/my-components/text-editor/tinymce/plugins/visualblocks/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/my-components/text-editor/tinymce/plugins/visualblocks/plugin.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/my-components/text-editor/tinymce/plugins/visualblocks/plugin.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/my-components/text-editor/tinymce/plugins/visualchars/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/my-components/text-editor/tinymce/plugins/visualchars/plugin.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/my-components/text-editor/tinymce/plugins/visualchars/plugin.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/my-components/text-editor/tinymce/plugins/wordcount/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/my-components/text-editor/tinymce/plugins/wordcount/plugin.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/my-components/text-editor/tinymce/plugins/wordcount/plugin.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/my-components/text-editor/tinymce/skins/lightgray/content.inline.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/my-components/text-editor/tinymce/skins/lightgray/content.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/my-components/text-editor/tinymce/skins/lightgray/content.mobile.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/my-components/text-editor/tinymce/skins/lightgray/fonts/tinymce-small.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/my-components/text-editor/tinymce/skins/lightgray/fonts/tinymce.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/my-components/text-editor/tinymce/skins/lightgray/skin.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/my-components/text-editor/tinymce/skins/lightgray/skin.mobile.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/my-components/text-editor/tinymce/themes/inlite/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/my-components/text-editor/tinymce/themes/inlite/theme.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/my-components/text-editor/tinymce/themes/inlite/theme.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/my-components/text-editor/tinymce/themes/modern/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/my-components/text-editor/tinymce/themes/modern/theme.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/my-components/text-editor/tinymce/themes/modern/theme.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/own-space/own-space.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/own-space/own-space.vue" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/portal-manage/ads/ads.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/portal-manage/ads/ads.vue" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/portal-manage/issues/issues.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/portal-manage/issues/issues.vue" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/portal-manage/news/news.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/portal-manage/news/news.vue" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yarn.lock" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/dist/05acfdb568b3df49ad31355b19495d4a.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/dist/24712f6c47821394fba7942fbb52c3b2.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/dist/2c2ae068be3b089e0a5b59abb1831550.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/dist/9f35d093728efc834cf6f8b15fd17eea.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/dist/fonts/ionicons.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/dist/fonts/ionicons.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/dist/fonts/ionicons.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/dist/td_icon.ico" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/dist/0.9fce0dec85fa7ea3ca3a.chunk.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/dist/1.9fce0dec85fa7ea3ca3a.chunk.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/dist/10.9fce0dec85fa7ea3ca3a.chunk.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/dist/11.9fce0dec85fa7ea3ca3a.chunk.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/dist/12.9fce0dec85fa7ea3ca3a.chunk.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/dist/13.9fce0dec85fa7ea3ca3a.chunk.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/dist/14.9fce0dec85fa7ea3ca3a.chunk.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/dist/15.9fce0dec85fa7ea3ca3a.chunk.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/dist/16.9fce0dec85fa7ea3ca3a.chunk.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/dist/17.9fce0dec85fa7ea3ca3a.chunk.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/dist/18.9fce0dec85fa7ea3ca3a.chunk.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/dist/19.9fce0dec85fa7ea3ca3a.chunk.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/dist/2.9fce0dec85fa7ea3ca3a.chunk.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/dist/20.9fce0dec85fa7ea3ca3a.chunk.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/dist/3.9fce0dec85fa7ea3ca3a.chunk.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/dist/4.9fce0dec85fa7ea3ca3a.chunk.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/dist/5.9fce0dec85fa7ea3ca3a.chunk.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/dist/6.9fce0dec85fa7ea3ca3a.chunk.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/dist/621bd386841f74e0053cb8e67f8a0604.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/dist/7.9fce0dec85fa7ea3ca3a.chunk.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/dist/8.9fce0dec85fa7ea3ca3a.chunk.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/dist/9.9fce0dec85fa7ea3ca3a.chunk.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/dist/fonts/ionicons.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/dist/main.9fce0dec85fa7ea3ca3a.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/dist/main.9fce0dec85fa7ea3ca3a.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/dist/vender-base.9fce0dec85fa7ea3ca3a.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/dist/vender-exten.9fce0dec85fa7ea3ca3a.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -367,8 +98,8 @@
       <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="152">
+              <caret line="8" column="5" lean-forward="true" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
               <folding />
             </state>
           </provider>
@@ -467,6 +198,7 @@
         <option value="$PROJECT_DIR$/src/views/home/home.vue" />
         <option value="$PROJECT_DIR$/src/views/home/components/map.vue" />
         <option value="$PROJECT_DIR$/src/views/home/home.less" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -633,12 +365,12 @@
       <option name="presentableId" value="Default" />
       <updated>1512380534229</updated>
       <workItem from="1512380535630" duration="1955000" />
-      <workItem from="1512459150913" duration="9369000" />
+      <workItem from="1512459150913" duration="9543000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11324000" />
+    <option name="totallyTimeSpent" value="11498000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -1085,8 +817,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="152">
+          <caret line="8" column="5" lean-forward="true" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
           <folding />
         </state>
       </provider>
