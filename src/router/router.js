@@ -50,6 +50,9 @@ export const otherRouter = {
     path: '/',
     name: 'otherRouter',
     redirect: '/home',
+    meta: {
+        title: '中铁中宇后台管理系统'
+    },
     component: Main,
     children: [
         {
